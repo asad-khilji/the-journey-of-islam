@@ -23,3 +23,25 @@ table {
     text-align: left;
     padding: 8px;
   }
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.col-5 {
+    width: 20%;
+}
+
+@media only screen and (max-width: 768px) {
+    .col-5 {
+        width: 50%;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .col-5 {
+        width: 100%;
+    }
+  }
