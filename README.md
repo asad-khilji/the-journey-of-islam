@@ -12,7 +12,7 @@
 - asad-khilji.github.io/the-journey-of-islam
 
 ## Screenshot
-![screenshot.jpg]()
+![screenshot.jpg](https://github.com/asad-khilji/the-journey-of-islam/blob/main/images/screenshot.jpg)
 
 ## Credits
 - Made By Asad Khilji
