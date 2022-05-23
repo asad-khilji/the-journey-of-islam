@@ -8,8 +8,11 @@
 - CSS
 - GitHub
 
+## GitHub
+- https://github.com/asad-khilji/the-journey-of-islam
+
 ## Website
-- asad-khilji.github.io/the-journey-of-islam
+- https://asad-khilji.github.io/the-journey-of-islam
 
 ## Screenshot
 ![screenshot.jpg](https://github.com/asad-khilji/the-journey-of-islam/blob/main/images/screenshot.jpg)
