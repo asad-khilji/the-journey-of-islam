@@ -7,6 +7,12 @@ h1 {
     text-align: center;
 }
 
+header {
+    background-color: green;
+    min-height: 100px;
+    padding: 10px;
+}
+
 main {
     margin: auto;
     max-width: 1025px;
